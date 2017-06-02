@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventtest", "eventtest\eventtest.csproj", "{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}.Release|iPhone.Build.0 = Release|iPhone
+		{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{57C3702C-07DE-41ED-A1D1-7F89E1046A5F}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

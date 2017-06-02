@@ -1,0 +1,9 @@
+/Users/blakemorgan/Projects/eventtest/eventtest/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/blakemorgan/Projects/eventtest/eventtest/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/blakemorgan/Projects/eventtest/eventtest/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/blakemorgan/Projects/eventtest/eventtest/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/blakemorgan/Projects/eventtest/eventtest/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/blakemorgan/Projects/eventtest/eventtest/bin/iPhoneSimulator/Debug/eventtest.pdb
+/Users/blakemorgan/Projects/eventtest/eventtest/bin/iPhoneSimulator/Debug/eventtest.exe
+/Users/blakemorgan/Projects/eventtest/eventtest/obj/iPhoneSimulator/Debug/eventtest.exe
+/Users/blakemorgan/Projects/eventtest/eventtest/obj/iPhoneSimulator/Debug/eventtest.pdb
